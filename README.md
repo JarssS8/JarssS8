@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src='./me.gif' align='right' width='18%'><br/>
+<img src='https://github.com/jarsss8/jarsss8/blob/master/me.gif' align='right' width='18%'><br/>
 <div style="text-align:center">
 
 ##  About Me 🙋🏽‍♂️️ 
