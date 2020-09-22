@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ##  About Me 🙋🏽‍♂️️ 
 - 🏡️ I'm a <b>Fullstack Junior Developer</b> based in Spain 🇪🇸  </a>
 - 😄 Programming is my <b>job AND my hobby</b>
-- 🔭 I’m currently looking <b>proffesional opportunities!</b>
+- 🔭 I’m currently working for <b>Solera Holdings Inc.</b>
 - 🌱 Learn do not have a END POINT
 - ⛹‍♂️️ I love practise sports, my favourites are Surf🏄‍♂️️, Ski⛷️ and Fronton🎾️
 - 👨‍💻️ <b>Python</b> and <b>Java</b> as main languages.
