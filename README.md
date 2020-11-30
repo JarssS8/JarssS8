@@ -4,7 +4,7 @@
 <div style="text-align:center">
 
 ##  About Me 🙋🏽‍♂️️ 
-- 🏡️ I'm a <b>Fullstack Junior Developer</b> based in Spain 🇪🇸  </a>
+- 🏡️ I'm a <b>Fullstack Junior Developer</b> based in Spain 🇪🇸
 - 😄 Programming is my <b>job AND my hobby</b>
 - 🔭 I’m currently working for <b>Solera Holdings Inc.</b>
 - 🌱 Learning does not have an END POINT
