@@ -1,19 +1,5 @@
 ### Welcome to my profile, my name is Adrián Corral 👋
 
-<!--
-**JarssS8/JarssS8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img src='https://github.com/jarsss8/jarsss8/blob/master/me.gif' align='right' width='18%'><br/>
 <div style="text-align:center">
 
@@ -21,11 +7,11 @@ Here are some ideas to get you started:
 - 🏡️ I'm a <b>Fullstack Junior Developer</b> based in Spain 🇪🇸  </a>
 - 😄 Programming is my <b>job AND my hobby</b>
 - 🔭 I’m currently working for <b>Solera Holdings Inc.</b>
-- 🌱 Learn do not have a END POINT
-- ⛹‍♂️️ I love practise sports, my favourites are Surf🏄‍♂️️, Ski⛷️ and Fronton🎾️
+- 🌱 Learning does not have an END POINT
+- ⛹‍♂️️ I love to practice sports like Surf🏄‍♂️️, Ski⛷️ and Fronton🎾️
 - 👨‍💻️ <b>Python</b> and <b>Java</b> as main languages.
-- 🔝️ Fun fact: My favourite film is Kingdom of Heaven and my favourite quote is <q><i>What man is a man who does not make the world better.</i></q>
-- 📫 For anything, send me an email: <b>adriancgs@gmail.com</b>
+- 🔝️ Fun fact: My favorite film is Kingdom of Heaven and it's best quote for me is <q><i>What man is a man who does not make the world better.</i></q>
+- 📫 Do not hesitate to contact me on: <b>adriancgs@gmail.com</b>
 </div>
 
 ---
