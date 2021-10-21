@@ -6,7 +6,7 @@
 ##  About Me 🙋🏽‍♂️️ 
 - 🏡️ I'm a <b>Fullstack Developer</b> based in Spain 🇪🇸
 - 😄 Programming is my <b>job AND my hobby</b>
-- 🔭 I’m currently working for <b>Solera Holdings Inc.</b>
+- 🔭 I’m currently working for <b>StratioDB.</b>
 - 🌱 Learning does not have an END POINT
 - ⛹‍♂️️ I love to practice sports like Surf🏄‍♂️️, Ski⛷️ and Fronton🎾️
 - 👨‍💻️ <b>Python</b> and <b>Java</b> as main languages.
